@@ -13,3 +13,5 @@ Skills: HTML, CSS , JAVASCRIPT, PHP, .NET, C#,  WORDPRESS, Microsoft Office
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Cherry-Machado)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cherry-machado/)
 
+[<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>]
+[<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="cherry-machado" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/cherry-machado?trk=profile-badge">Cherry Machado Carreno</a></div>]
