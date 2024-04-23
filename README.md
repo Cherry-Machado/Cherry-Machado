@@ -2,8 +2,7 @@
 #### I am Web Developer
 ![I am Front-end Web Developer](https://github.com/Cherry-Machado/Website/blob/master/img/Banner_Cherry1.png)
 
-Licenciado em Relações Públicas e Técnico Superior Universitario em Informática, Experiência na área de Vendas/Compras). Especialista em Negociação e Atenção ao Cliente. Desenvolvedor Web. Trilíngue (Espanhol, Inglês, Português). Considero-me uma pessoa curiosa, com espírito empreendedor, com grande facilidade para trabalhar em equipe. Adoro ler religiosamente, ouvir podcasts e assistir filmes de ação e drama.
-
+Licenciado em Relações Públicas e Técnico Superior Universitario em Informática. Desenvolvedor Web. Trilíngue (Espanhol, Inglês, Português).
 Skills: HTML, CSS , JAVASCRIPT.
 
 - 🔭 I’m currently working on this page. 
