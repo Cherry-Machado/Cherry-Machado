@@ -4,10 +4,10 @@
 
 Licenciado em Relações Públicas e Técnico Superior Universitario em Informática, Experiência na área de Vendas/Compras). Especialista em Negociação e Atenção ao Cliente. Desenvolvedor Web. Trilíngue (Espanhol, Inglês, Português). Considero-me uma pessoa curiosa, com espírito empreendedor, com grande facilidade para trabalhar em equipe. Adoro ler religiosamente, ouvir podcasts e assistir filmes de ação e drama.
 
-Skills: HTML, CSS , JAVASCRIPT, PHP, .NET, C#,  WORDPRESS, Microsoft Office
+Skills: HTML, CSS , JAVASCRIPT.
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning NEXT js 
+- 🌱 I’m currently learning Python. 
 - 📫 How to reach me: cherry5467@gmail.com 
 
 
