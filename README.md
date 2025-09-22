@@ -2,23 +2,22 @@
 
 Hello, GitHub! 👋
 
-I'm <Cherry MAchado>, a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm Cherry MAchado, a student at Brigham Young University-Idaho interested in computer and web development. Welcome to my GitHub profile!
 
 ## About Me
 
-- I'm currently learning ...
-- My goals are to ...
-- Ask me about ...
+- I'm currently learning Testing and Web Development.
+- My goals are to get my Bachelor's Degree in Software Development.
+- Ask me about my professional experience.
 
 ## Technologies and Tools
 
-- Proficient in: <List of Programming Languages or Technologies>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Proficient in: HTML, CSS, JavaScript, Python, C#.
+- Skills: Testing, SQL, Wordpress.
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
-- Here is my [Twitter](Your Twitter Profile Link) profile
+- Here is my [LinkedIn] profile https://www.linkedin.com/in/cherry-machado/
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
