@@ -3,8 +3,8 @@
 
 Hello, GitHub! 👋
 
-I'm Cherry MAchado, a student at Brigham Young University-Idaho interested in computer and web development. Graduated in Public Relations and Higher University Technician in Computer Science. Web Developer. Trilingual (Spanish, English, Portuguese).
-
+I'm Cherry Machado, a student at Brigham Young University-Idaho interested in computer and web development. 
+Graduated in Public Relations and Higher University Technician in Computer Science. Web Developer. Trilingual (Spanish, English, Portuguese).
 Welcome to my GitHub profile!
 
 ## About Me
