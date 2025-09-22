@@ -3,7 +3,9 @@
 
 Hello, GitHub! 👋
 
-I'm Cherry MAchado, a student at Brigham Young University-Idaho interested in computer and web development. Welcome to my GitHub profile!
+I'm Cherry MAchado, a student at Brigham Young University-Idaho interested in computer and web development. Graduated in Public Relations and Higher University Technician in Computer Science. Web Developer. Trilingual (Spanish, English, Portuguese).
+
+Welcome to my GitHub profile!
 
 ## About Me
 
@@ -22,20 +24,6 @@ I'm Cherry MAchado, a student at Brigham Young University-Idaho interested in co
 - 📫 You can also email me at: cherry5467@gmail.com 
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
-
-
-
-### Hi there 👋, my name is Cherry
-#### I am Web Developer
-
-
-Licenciado em Relações Públicas e Técnico Superior Universitario em Informática. Desenvolvedor Web. Trilíngue (Espanhol, Inglês, Português).
-Skills: HTML, CSS , JAVASCRIPT.
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Python. 
-- 📫 How to reach me: cherry5467@gmail.com 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Cherry-Machado)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cherry-machado/)
 
