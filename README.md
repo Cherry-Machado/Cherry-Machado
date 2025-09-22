@@ -1,3 +1,4 @@
+![I am Front-end Web Developer](https://github.com/Cherry-Machado/Website/blob/master/img/Banner_Cherry1.png)
 # Cherry Machado
 
 Hello, GitHub! 👋
@@ -17,7 +18,8 @@ I'm Cherry MAchado, a student at Brigham Young University-Idaho interested in co
 
 ## Let's Connect!
 
-- Here is my [LinkedIn] profile https://www.linkedin.com/in/cherry-machado/
+- 🔭 Here is my LinkedIn profile: https://www.linkedin.com/in/cherry-machado/
+- 📫 You can also email me at: cherry5467@gmail.com 
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
@@ -25,7 +27,7 @@ Feel free to explore my repositories and don't hesitate to reach out. Happy codi
 
 ### Hi there 👋, my name is Cherry
 #### I am Web Developer
-![I am Front-end Web Developer](https://github.com/Cherry-Machado/Website/blob/master/img/Banner_Cherry1.png)
+
 
 Licenciado em Relações Públicas e Técnico Superior Universitario em Informática. Desenvolvedor Web. Trilíngue (Espanhol, Inglês, Português).
 Skills: HTML, CSS , JAVASCRIPT.
